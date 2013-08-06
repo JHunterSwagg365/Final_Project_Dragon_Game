@@ -1,0 +1,40 @@
+.begin{
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Bad Script', cursive;
+}
+
+.button_begin{
+	margin-left: 50%;
+	padding: 0px 5px 5px !important;
+	font-size: 18px !important;
+	background-color: red;
+	font-weight: bold;
+	text-shadow: 3px 3px gray;
+	border-radius: 100px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 100px;
+	border: 3px solid black;
+	cursor: pointer;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+	outline-color: red;
+}
+
+.dragpic{
+	margin-left: 25%
+}
+
+pre{
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Bad Script', cursive;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-shadow: 5px 4px gray;
+}
+
+body{
+	background-color: red;
+}
