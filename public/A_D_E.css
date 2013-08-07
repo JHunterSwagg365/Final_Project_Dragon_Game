@@ -1,0 +1,29 @@
+html{
+	background-image: url(dragonfire.gif);
+	background-size: 1550px 900px;
+}
+
+pre{
+	font-family: 'Bad Script', cursive;
+	font-size: 45px;
+	font-weight: bolder;
+	text-shadow: 5px 4px red;
+}
+
+a{
+	margin-left: 25%;
+}
+
+.restart{
+	color: red;
+	background-color: black;
+	font-family: 'Bad Script', cursive;
+}
+
+button{
+	padding: 0px 5px 15px;
+	border-radius: 100px;
+	color: black;
+	background-color: black;
+	outline-color: black;
+}
