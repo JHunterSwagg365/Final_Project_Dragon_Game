@@ -1,0 +1,31 @@
+pre{
+	font-size: 45px;
+	color: #FFFFFF ;
+	font-family: 'Bad Script', cursive;
+	text-shadow: 2px 2.5px #888888 ;
+}
+
+html{
+	background-image: url(fantasy.jpg);
+	background-size: 1500px 800px;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: red;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px black;
+	font-weight: bolder;
+}
+
+a:hover{
+	font-size: 25px;
+	color: red;
+	text-decoration: underline;
+}

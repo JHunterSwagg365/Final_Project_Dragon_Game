@@ -19,8 +19,10 @@ if door == "1"
 
 	if dragon == "1"
 		puts "The dragon swallows you whole.	Great Job!"
+	
 	elsif dragon == "2"
 		puts "You hit the dragon in the knee and he burns you alive.	Great Job!"
+	
 	elsif dragon == "3"
 		puts "You and the dragon bond and you become a Dragon Master!	Congraduations!"
 		puts "You are now partners with your dragon. What do you wish to do?"

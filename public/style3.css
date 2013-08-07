@@ -20,7 +20,7 @@ p{
 	font-size: 45px;
 	color: white;
 	font-family: 'Bad Script', cursive;
-	text-shadow: 5px 5px gray;
+	text-shadow: 3px 2px gray;
 	font-weight: bolder;
 
 }
@@ -31,5 +31,5 @@ p{
 }
 
 .door2{
-	margin-left: 25%;
+	margin-left: 50%;
 }
