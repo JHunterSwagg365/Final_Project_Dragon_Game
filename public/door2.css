@@ -2,3 +2,27 @@ html{
 	background-image: url(caveDrag.jpg);
 	background-size: 1550px 755px;
 }
+
+pre
+{
+	font-weight: bold;
+	font-family: 'Bad Script', cursive;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-shadow: 2px 3px red;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px gray;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: red;
+}
