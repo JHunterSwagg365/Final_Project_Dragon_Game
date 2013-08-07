@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+	
 	<audio src="Dragon.mp3" preload="auto" autoplay loop></audio>
 	<link href='http://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
 	<link href='/A_D_E.css' rel='stylesheet' type='text/css'>
@@ -11,7 +13,7 @@
 	he burned you alive!!!</pre>
 	<pre>		YOU LOSE!!</pre>
 
-	<a href="http://localhost:4567/instructions" type="button" onclick="JavaScript:alert('You are returning to the beginning')">
+	<a href="/instructions" type="button" onclick="JavaScript:alert('You are returning to the beginning')">
 	<button>
 	</br>
 		<span class="restart">
@@ -19,5 +21,15 @@
 		</span>
 	</button>
 	</a>
+	<script type="text/javascript">
+	jQuery(window).unload(function() {
+        var yes = confirm("are you sure?");
+        if (yes) {
+            return true;
+        } else {
+            return false;   
+        }
+    });
+	</script>
 </body>
 </html>
