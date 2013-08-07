@@ -29,3 +29,7 @@ end
 get '/door2' do
 	erb :door2
 end
+
+get '/Hybrid_path1.erb' do
+  erb :Hybrid_path1
+end
