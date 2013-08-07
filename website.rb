@@ -22,10 +22,22 @@ get '/dragon_attack_ending' do
 	erb :dragon_attack_ending
 end
 
+get '/dragon_companion' do
+  erb :dragon_companion
+end
+
 get'/dragon_sleeping' do
 	erb :dragon_sleeping
 end
 
 get '/door2' do
 	erb :door2
+end
+
+get '/dragon_moon' do 
+  erb :dragon_moon
+end
+
+get '/take_over' do
+  erb :take_over
 end

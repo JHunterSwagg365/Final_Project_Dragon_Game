@@ -1,3 +1,39 @@
+pre{
+	font-size: 45px;
+	color: black;
+	font-family: 'Bad Script', cursive;
+	text-shadow: 2px 2.5px gray;
+}
+
 html{
-	background-image: 
+	background-image: url(dragoneating.jpg);
+	background-size: 1500px 800px;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: red;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px black;
+	font-weight: bolder;
+}
+
+.restart{
+	color: #78AB46;
+	background-color: black;
+	font-family: 'Bad Script', cursive;
+}
+
+button{
+	padding: 0px 15px 15px;
+	border-radius: 100px;
+	color: black;
+	background-color: black;
+	outline-color: black;
 }

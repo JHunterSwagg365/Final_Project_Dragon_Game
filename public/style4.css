@@ -2,7 +2,7 @@ p{
 	font-size: 45px;
 	color: white;
 	font-family: 'Bad Script', cursive;
-	text-shadow: 5px 5px gray;
+	text-shadow: 2px 2.5px gray;
 }
 
 html{
@@ -11,6 +11,7 @@ html{
 }
 
 a:hover{
+	font-size: 25px;
 	color: red;
 	text-decoration: underline;
 }
