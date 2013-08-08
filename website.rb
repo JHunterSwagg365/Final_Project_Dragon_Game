@@ -45,3 +45,15 @@ end
 get '/take_over' do
   erb :take_over
 end
+
+get '/injured_man' do
+  erb :injured_man
+end
+
+get '/thief_path' do
+  erb :thief_path
+end
+
+get '/snake_death' do
+  erb :snake_death
+end
