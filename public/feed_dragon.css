@@ -1,0 +1,30 @@
+html{
+	background-image: url(dragonroar.jpg);
+	background-size: 1550px 900px;
+}
+
+pre{
+	font-family: 'Bad Script', cursive;
+	font-size: 45px;
+	font-weight: bolder;
+	text-shadow: 2px 1px  #8C489F;
+}
+
+a{
+	margin-left: 20%;
+}
+
+.restart{
+	font-size: 17px;
+	color: #9C8AA5;
+	background-color: black;
+	font-family: 'Bad Script', cursive;
+}
+
+button{
+	padding: 0px 25px 10px;
+	border-radius: 100px;
+	color: black;
+	background-color: black;
+	outline-color: black;
+}

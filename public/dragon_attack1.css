@@ -1,0 +1,30 @@
+html{
+	background-image: url(death.jpg);
+	background-size: 1550px 900px;
+}
+
+pre{
+	font-family: 'Bad Script', cursive;
+	font-size: 45px;
+	font-weight: bolder;
+	text-shadow: 2px 1px  white;
+}
+
+a{
+	margin-left: 20%;
+}
+
+.restart{
+	font-size: 13px;
+	color: #9C8AA5;
+	background-color: black;
+	font-family: 'Bad Script', bold;
+}
+
+button{
+	padding: 0px 15px 15px;
+	border-radius: 100px;
+	color: black;
+	background-color: black;
+	outline-color: black;
+}

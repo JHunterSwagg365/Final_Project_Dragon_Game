@@ -30,6 +30,42 @@ get'/dragon_sleeping' do
 	erb :dragon_sleeping
 end
 
+get '/train_dragon1' do
+  erb :train_dragon
+end
+
+get '/train_dragon2' do
+  erb :train_dragon2
+end
+
+get '/take_over_america' do
+  erb :take_over_america
+end
+
+get '/dragon_den' do 
+  erb :dragon_den
+end
+
+get '/military_strength' do 
+  erb :military_strength
+end
+
+get '/feed_dragon' do
+  erb :feed_dragon
+end
+
+get '/search_cave' do
+  erb :search_cave
+end
+
+get '/taunt' do
+  erb :taunt
+end
+
+get '/dragon_attack1' do 
+  erb :dragon_attack1
+end
+
 get '/door2' do
 	erb :door2
 end

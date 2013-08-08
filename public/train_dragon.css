@@ -1,0 +1,31 @@
+p{
+	font-size: 45px;
+	color: #FFFFFF ;
+	font-family: 'Bad Script', cursive;
+	text-shadow: 3px 2.5px black ;
+}
+
+html{
+	background-image: url(train1.jpg);
+	background-size: 1500px 800px;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: white;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px black;
+	font-weight: bolder;
+}
+
+a:hover{
+	font-size: 25px;
+	color: red;
+	text-decoration: underline;
+}

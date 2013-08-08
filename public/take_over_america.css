@@ -1,0 +1,29 @@
+html{
+	background-image: url(america.jpg);
+	background-size: 1550px 900px;
+}
+
+pre{
+	font-family: 'Bad Script', cursive;
+	font-size: 50px;
+	font-weight: bolder;
+	text-shadow: 2px 1px  white;
+}
+
+a{
+	margin-left: 20%;
+}
+
+.restart{
+	color: #9C8AA5;
+	background-color: black;
+	font-family: 'Bad Script', bold;
+}
+
+button{
+	padding: 0px 5px 15px;
+	border-radius: 100px;
+	color: black;
+	background-color: black;
+	outline-color: black;
+}

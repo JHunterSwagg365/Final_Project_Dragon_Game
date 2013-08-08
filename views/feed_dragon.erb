@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<audio src="Dragon.mp3" preload="auto" autoplay loop></audio>
+	<link href='http://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+	<link href='/feed_dragon.css' rel='stylesheet' type='text/css'>
+	<title>Awakened Ending</title>
+</head>
+<body>
+	<pre>You fed the dragon meat. The Dragon roars for more!
+But you don't have anymore meat. That sucks.</pre>
+
+	<a href="/dragon_den" type="button">
+	<button>
+	</br>
+		<span class="restart">
+			Go Back
+		</span>
+	</button>
+	</a>
+	<script type="text/javascript">
+	jQuery(window).unload(function() {
+        var yes = confirm("are you sure?");
+        if (yes) {
+            return true;
+        } else {
+            return false;   
+        }
+    });
+	</script>
+</body>
+</html>
