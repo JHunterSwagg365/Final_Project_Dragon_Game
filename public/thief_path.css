@@ -1,6 +1,6 @@
 html{
-	background-image: url(caveDrag.jpg);
-	background-size: 1375px 705px;
+	background-image: url(thief.jpg);
+	background-size: cover;
 }
 
 pre
@@ -10,7 +10,7 @@ pre
 	margin-bottom: 10px;
 	text-shadow: 2px 3px red;
 	font-family: 'Fruktur', cursive;
-	color: gray;
+	color: #434242;
 }
 
 a{

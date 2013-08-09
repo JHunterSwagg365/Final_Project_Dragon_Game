@@ -1,16 +1,15 @@
 html{
-	background-image: url(caveDrag.jpg);
-	background-size: 1375px 705px;
+	background-image: url(snake_death.jpg);
+	background-size: 1550px 755px;
 }
 
 pre
 {
 	font-weight: bold;
+	font-family: 'Bad Script', cursive;
 	font-size: 50px;
 	margin-bottom: 10px;
 	text-shadow: 2px 3px red;
-	font-family: 'Fruktur', cursive;
-	color: gray;
 }
 
 a{
@@ -25,5 +24,5 @@ a:link{
 }
 
 a:visited{
-	color: red;
+	color: black;
 }
