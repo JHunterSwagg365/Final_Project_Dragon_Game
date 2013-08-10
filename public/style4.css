@@ -1,31 +1,42 @@
+@font-face
+{
+	font-family:Rom_Ftl_Srif_Std_Juan_Casco;
+	src:url("Rom_Ftl_Srif_Std_Juan_Casco.ttf"); 
+}
+
+#main
+{
+	font-family:Rom_Ftl_Srif_Std_Juan_Casco;
+}
+
 p{
 	font-size: 45px;
-	color: white;
+	color: black;
 	font-family: 'Bad Script', cursive;
-	text-shadow: 2px 2.5px gray;
+	text-shadow: 1px 2px white;
 }
 
 html{
-	background-image: url(sleeping-dragon.jpg);
+	background-image: url(dragonnotice.jpg);
 	background-size: 1500px 800px;
 }
 
 a:hover{
-	font-size: 25px;
+	font-size: 30px;
 	color: red;
-	text-decoration: underline;
 }
 
 a:link{
-	color: white;
-}
-
-a:visited{
+	text-shadow: 1px 2px red;
+	font-size: 25px;
 	color: red;
 }
 
+a:visited{
+	color: #000000;
+}
+
 a{
-	font-family: 'Bad Script', cursive;
-	text-shadow: 1px 1px gray;
+	font-family: 'Rom_Ftl_Srif_Std_Juan_Casco', bold;
 	font-weight: bolder;
 }

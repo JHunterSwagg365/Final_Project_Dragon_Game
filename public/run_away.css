@@ -1,12 +1,12 @@
 html{
-	background-image: url(thecave.jpg);
+	background-image: url(run_away.jpg);
 	background-size: 1550px 900px;
 	color: white;
 }
 
 pre{
 	font-family: 'Bad Script', cursive;
-	font-size: 45px;
+	font-size: 50px;
 	font-weight: bolder;
 	text-shadow: 2px 1px  black;
 }
@@ -16,14 +16,13 @@ a{
 }
 
 .restart{
-	font-size: 17px;
 	color: #9C8AA5;
 	background-color: black;
-	font-family: 'Bad Script', cursive;
+	font-family: 'Bad Script', bold;
 }
 
 button{
-	padding: 0px 25px 10px;
+	padding: 0px 5px 15px;
 	border-radius: 100px;
 	color: black;
 	background-color: black;

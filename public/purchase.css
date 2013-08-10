@@ -1,0 +1,25 @@
+p{
+	font-size: 45px;
+	color: white;
+	font-family: 'Bad Script', cursive;
+	text-shadow: 2px 3px black;
+}
+
+html{
+	background-image: url(taunt.jpg);
+	background-size: 1500px 800px;
+}
+
+.restart{
+	color: #9C8AA5;
+	background-color: black;
+	font-family: 'Bad Script', bold;
+}
+
+button{
+	padding: 0px 15px 15px;
+	border-radius: 100px;
+	color: black;
+	background-color: black;
+	outline-color: black;
+}

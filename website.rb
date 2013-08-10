@@ -38,8 +38,32 @@ get '/train_dragon2' do
   erb :train_dragon2
 end
 
+get '/purchase' do 
+  erb :purchase
+end
+
+get '/train_dragon3' do 
+  erb :train_dragon3
+end
+
+get '/take_over_russia' do 
+  erb :take_over_russia
+end
+
+get '/take_america_again' do 
+  erb :take_america_again
+end
+
+get '/leave_dragon' do 
+  erb :leave_dragon
+end
+
 get '/take_over_america' do
   erb :take_over_america
+end
+
+get '/run_away' do
+  erb :run_away
 end
 
 get '/dragon_den' do 
@@ -54,8 +78,16 @@ get '/feed_dragon' do
   erb :feed_dragon
 end
 
+get '/attack_dragon' do
+  erb :attack_dragon
+end
+
 get '/search_cave' do
   erb :search_cave
+end
+
+get '/take_over_france' do
+  erb :take_over_france
 end
 
 get '/taunt' do
