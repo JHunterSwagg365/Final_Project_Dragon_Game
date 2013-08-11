@@ -109,3 +109,19 @@ end
 get '/other_path' do
   erb :other_path
 end
+
+get '/hybrid_path2' do
+  erb :hybrid_path2
+end
+
+get '/hybrid_path3' do
+  erb :hybrid_path3
+end
+
+get '/hybrid_fight_demo_ending' do
+  erb :hybrid_fight_demo_ending
+end
+
+get '/ruthless_ending' do
+  erb :ruthless_ending
+end

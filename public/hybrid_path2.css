@@ -1,0 +1,33 @@
+pre{
+	font-family: 'Bad Script', cursive;
+	font-size: 35px;
+	font-weight: bolder;
+	text-shadow: 2px 1px blue;
+	color: white;
+}
+
+html{
+	background-image: url(hybrid_dragon.png);
+	background-size: 1500px 800px;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: blue;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px black;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+a:hover{
+	font-size: 25px;
+	color: blue;
+	text-decoration: underline;
+}

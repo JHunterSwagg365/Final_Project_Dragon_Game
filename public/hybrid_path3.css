@@ -1,0 +1,31 @@
+html{
+	background-image: url(lightningvsfire.png);
+	background-size: cover;
+}
+
+pre{
+	font-family: 'Bad Script', cursive;
+	font-size: 40px;
+	font-weight: bolder;
+	text-shadow: 2px 1px  #8C489F;
+}
+
+a{
+	margin-left: 20%;
+}
+
+.proceed{
+	font-size: 17px;
+	color: #9C8AA5;
+	background-color: black;
+	font-family: 'Bad Script', cursive;
+	color: red;
+}
+
+button{
+	padding: 0px 25px 10px;
+	border-radius: 100px;
+	color: black;
+	background-color: black;
+	outline-color: black;
+}
