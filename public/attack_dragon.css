@@ -1,12 +1,12 @@
 pre{
 	font-size: 45px;
-	color: black ;
+	color: white;
 	font-family: 'Bad Script', cursive;
-	text-shadow: 2px 2.5px #888888 ;
+	text-shadow: 2px 3px black;
 }
 
 html{
-	background-image: url(military.jpg);
+	background-image: url(attack_dragon.jpg);
 	background-size: 1500px 800px;
 }
 
@@ -15,13 +15,14 @@ a:link{
 }
 
 a:visited{
-	color: red;
+	color: orange;
 }
 
 a{
 	font-family: 'Bad Script', cursive;
 	text-shadow: 1px 1px black;
 	font-weight: bolder;
+	font-size: 30px;
 }
 
 a:hover{
