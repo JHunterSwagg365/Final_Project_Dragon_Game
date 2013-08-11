@@ -1,0 +1,30 @@
+html{
+	background-image: url(thief.jpg);
+	background-size: cover;
+}
+
+pre
+{
+	font-weight: bold;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-shadow: 2px 3px red;
+	font-family: 'Fruktur', cursive;
+	color: #434242;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px gray;
+	font-weight: bolder;
+	font-size: 25px;
+	color: red;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	background: red;
+}

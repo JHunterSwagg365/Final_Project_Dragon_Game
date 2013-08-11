@@ -102,8 +102,8 @@ get '/door2' do
 	erb :door2
 end
 
-get '/Hybrid_path1.erb' do
-  erb :Hybrid_path1
+get '/hybrid_path1' do
+  erb :hybrid_path1
 end
 
 get '/dragon_moon' do 
@@ -124,4 +124,20 @@ end
 
 get '/snake_death' do
   erb :snake_death
+end
+
+get '/snake_death1' do
+  erb :snake_death1
+end
+
+get '/snake_death2' do
+  erb :snake_death2
+end
+
+get '/thief_path2' do
+  erb :thief_path2
+end
+
+get '/other_path' do
+  erb :other_path
 end
