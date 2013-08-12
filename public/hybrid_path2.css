@@ -12,22 +12,22 @@ html{
 }
 
 a:link{
-	color: white;
+	color: orange;
 }
 
 a:visited{
-	color: blue;
+	color: orange;
 }
 
 a{
 	font-family: 'Bad Script', cursive;
 	text-shadow: 1px 1px black;
 	font-weight: bolder;
-	font-size: 20px;
+	font-size: 25px;
 }
 
 a:hover{
-	font-size: 25px;
-	color: blue;
+	font-size: 30px;
+	color: white;
 	text-decoration: underline;
 }

@@ -1,14 +1,3 @@
-@font-face
-{
-	font-family:Rom_Ftl_Srif_Std_Juan_Casco;
-	src:url("Rom_Ftl_Srif_Std_Juan_Casco.ttf"); 
-}
-
-#main
-{
-	font-family:Rom_Ftl_Srif_Std_Juan_Casco;
-}
-
 p{
 	font-size: 45px;
 	color: black;
@@ -21,22 +10,23 @@ html{
 	background-size: 1500px 800px;
 }
 
-a:hover{
-	font-size: 30px;
-	color: red;
-}
-
 a:link{
-	text-shadow: 1px 2px red;
-	font-size: 25px;
-	color: red;
+	color: white;
 }
 
 a:visited{
-	color: #000000;
+	color: orange;
 }
 
 a{
-	font-family: 'Rom_Ftl_Srif_Std_Juan_Casco', bold;
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px black;
 	font-weight: bolder;
+	font-size: 20px;
+}
+
+a:hover{
+	font-size: 25px;
+	color: red;
+	text-decoration: underline;
 }

@@ -15,17 +15,18 @@ a:link{
 }
 
 a:visited{
-	color: red;
+	color: white;
 }
 
 a{
 	font-family: 'Bad Script', cursive;
+	font-size: 25px;
 	text-shadow: 1px 1px black;
 	font-weight: bolder;
 }
 
 a:hover{
-	font-size: 25px;
+	font-size: 30px;
 	color: red;
 	text-decoration: underline;
 }

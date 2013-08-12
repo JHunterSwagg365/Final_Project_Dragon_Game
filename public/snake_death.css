@@ -24,5 +24,18 @@ a:link{
 }
 
 a:visited{
-	color: blue;
+	color: orange;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px black;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+a:hover{
+	font-size: 30px;
+	color: red;
+	text-decoration: underline;
 }

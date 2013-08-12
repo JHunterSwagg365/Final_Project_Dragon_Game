@@ -8,14 +8,14 @@ pre
 	font-weight: bold;
 	font-size: 50px;
 	margin-bottom: 10px;
-	text-shadow: 2px 3px red;
+	text-shadow: 2px 3px black;
 	font-family: 'Fruktur', cursive;
-	color: gray;
+	color: white;
 }
 
 a{
 	font-family: 'Bad Script', cursive;
-	text-shadow: 1px 1px gray;
+	text-shadow: 1px 1px white;
 	font-weight: bolder;
 	font-size: 25px;
 }
@@ -25,5 +25,18 @@ a:link{
 }
 
 a:visited{
+	color: orange;
+}
+
+a{
+	font-family: 'Bad Script', cursive;
+	text-shadow: 1px 1px black;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+a:hover{
+	font-size: 30px;
 	color: red;
+	text-decoration: underline;
 }
