@@ -1,1 +1,36 @@
-ruthless_ending.erb
+<!DOCTYPE html>
+<html>
+<head>
+	<audio src="Fire_Burning.mp3" preload="auto" autoplay loop></audio>
+	<link href='http://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+	<link href='/ruthless_ending.css' rel='stylesheet' type='text/css'>
+	<title>Ruthless Ending</title>
+</head>
+<body>
+<pre>
+	You ruthlessly try and stomp out the monstrosity with your 
+	steel boots of justice.
+	But he's a dragon and felt nothing. 
+	He burns you alive!!
+	That Sucks!
+</pre>
+<a href="/dark_room" type="button">
+	<button>
+	</br>
+		<span class="restart">
+			Restart
+		</span>
+	</button>
+	</a>
+	<script type="text/javascript">
+	jQuery(window).unload(function() {
+        var yes = confirm("are you sure?");
+        if (yes) {
+            return true;
+        } else {
+            return false;   
+        }
+    });
+	</script>
+</body>
+</html>

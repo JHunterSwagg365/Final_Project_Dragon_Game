@@ -157,3 +157,15 @@ end
 get '/ruthless_ending' do
   erb :ruthless_ending
 end
+
+get '/snooze_button' do
+  erb :snooze_button
+end
+
+get '/domestic' do
+  erb :domestic
+end
+
+get '/Demo_ending' do
+  erb :Demo_ending
+end
